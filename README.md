@@ -19,3 +19,9 @@ This project is going to make a Android chess game application by Flutter accomp
 2. Find the keyword "url" and change it by using your IP, you can check your IP address by input "ipconfig" in command prompt
 3. Find the keyword "path_standardChessboard" and assign the image path of standard chessboard
 4. Run your server 
+
+# Make an robotic arm
+Please go to https://www.thingiverse.com/thing:1718984 for fetching the 3D model of the robotic arm [1]
+Use 3D printer can easily construct all the necessary components
+
+[1] F Tobler (2016) robotic arm design [Online]. Available: https://www.thingiverse.com/thing:1718984. [2021, January 2].
